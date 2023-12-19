@@ -29,9 +29,6 @@
 - Triển khai.
 - Bảo dưỡng.
 
-## **Link phần mềm**
-
-
 ## **Thành viên**
 
 - Lê Tùng Dương
