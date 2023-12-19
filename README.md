@@ -10,10 +10,10 @@
 
 ### **Chức Năng Chính**
 
-1. Người dùng đăng nhập hoặc đăng ký.
-2. Người dùng đặt phòng.
-3. Người dùng trả phòng.
-4. Quản trị viên quản lý phòng (Thêm, sửa, xóa, hiển thị danh sách phòng).
+- Người dùng đăng nhập hoặc đăng ký.
+- Người dùng đặt phòng.
+- Người dùng trả phòng.
+- Quản trị viên quản lý phòng (Thêm, sửa, xóa, hiển thị danh sách phòng).
 
 ### **Công Nghệ Sử Dụng**
 
@@ -23,28 +23,22 @@
 
 ### **Quy Trình Phát Triển**
 
-1. Lên ý tưởng và thiết kế.
-2. Phát triển cơ bản.
-3. Kiểm thử và điều chỉnh.
-4. Triển khai.
-5. Bảo dưỡng.
+- Lên ý tưởng và thiết kế.
+-  Phát triển cơ bản.
+- Kiểm thử và điều chỉnh.
+- Triển khai.
+- Bảo dưỡng.
 
-## **Hướng Dẫn Cài Đặt**
+## **Link phần mềm**
 
-[Thêm hướng dẫn cài đặt nếu có]
 
-## **Hướng Dẫn Sử Dụng**
+## **Thành viên**
 
-[Thêm hướng dẫn sử dụng nếu có]
-
-## **Đóng Góp**
-
-Nếu bạn muốn đóng góp vào dự án, vui lòng tạo một pull request và theo dõi quy tắc đóng góp.
-
-## **Bản Quyền**
-
-Dự án được phân phối dưới giấy phép [Thêm loại giấy phép của bạn].
+- Lê Tùng Dương
+- Nguyễn Trà Giang
+- Lê Trí Đức
+- Nguyễn Bảo Chung
 
 ---
 
-© [Năm] Tên Dự Án
+© [2023] Quản lý khách sạn - Nhóm 1 - Lớp 64KTPM5
